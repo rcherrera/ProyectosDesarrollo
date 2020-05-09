@@ -1,0 +1,36 @@
+C:\Users\Roberto\source\repos\PedidosSap\bin\Debug\PedidosSap.exe.config
+C:\Users\Roberto\source\repos\PedidosSap\bin\Debug\PedidosSap.exe
+C:\Users\Roberto\source\repos\PedidosSap\bin\Debug\PedidosSap.pdb
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\PedidosSap.csprojAssemblyReference.cache
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\PedidosSap.Properties.Resources.resources
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\PedidosSap.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\PedidosSap.exe
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\PedidosSap.pdb
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\PedidosSap.FrmIngreso.resources
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Roberto\source\repos\PedidosSap\obj\Debug\PedidosSap.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\bin\Debug\PedidosSap.exe.config
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\bin\Debug\PedidosSap.exe
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\bin\Debug\PedidosSap.pdb
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\PedidosSap.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\PedidosSap.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\PedidosSap.FrmIngreso.resources
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\PedidosSap.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\PedidosSap.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\PedidosSap.exe
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap\obj\Debug\PedidosSap.pdb
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\PedidosSap.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\PedidosSap.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\PedidosSap.FrmIngreso.resources
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\PedidosSap.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\PedidosSap.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\PedidosSap.exe
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\obj\Debug\PedidosSap.pdb
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\bin\Debug\PedidosSap.exe.config
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\bin\Debug\PedidosSap.exe
+C:\Users\Administrator\source\repos\Sistema de Pedidos\PedidosSap - Version 2\bin\Debug\PedidosSap.pdb
