@@ -1,0 +1,9 @@
+C:\Users\Roberto\source\repos\Nomina\bin\Debug\Nomina.exe.config
+C:\Users\Roberto\source\repos\Nomina\bin\Debug\Nomina.exe
+C:\Users\Roberto\source\repos\Nomina\bin\Debug\Nomina.pdb
+C:\Users\Roberto\source\repos\Nomina\obj\Debug\Nomina.csprojAssemblyReference.cache
+C:\Users\Roberto\source\repos\Nomina\obj\Debug\Nomina.Form1.resources
+C:\Users\Roberto\source\repos\Nomina\obj\Debug\Nomina.Properties.Resources.resources
+C:\Users\Roberto\source\repos\Nomina\obj\Debug\Nomina.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\Nomina\obj\Debug\Nomina.exe
+C:\Users\Roberto\source\repos\Nomina\obj\Debug\Nomina.pdb
